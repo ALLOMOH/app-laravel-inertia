@@ -6,5 +6,5 @@
             "@/*":["./resources/js/*"]
         },
     },
-    "include": ["resources/js/**/*.js","resource/js/**/*.ts","resources/js/**/*.tsx", "resources/js/app.jsx", "resources/js/Pages/welcome.jsx"],
+    "include": ["resources/js/**/*.js","resource/js/**/*.ts","resources/js/**/*.tsx", "resources/js/app.jsx", "resources/js/Pages/About.jsx"],
 }
